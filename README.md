@@ -1,2 +1,4 @@
 # CODSOFT-INTERN
-fffvdds
+CODESOFT INTERNSHIP TASKS
+1. Number Game
+2. 
