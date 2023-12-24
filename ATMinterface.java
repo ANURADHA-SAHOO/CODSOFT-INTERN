@@ -63,12 +63,12 @@ class ATM {
 
             case 4:
                 System.out.println("Exiting ATM. Thank you!");
+                scanner.close();
                 System.exit(0);
 
             default:
                 System.out.println("Invalid option. Please choose a valid option.");
         }
-        scanner.close();
     }
 }
 
